@@ -2,6 +2,7 @@
 # Social Media Civic Monitoring Pipeline
 
 This project is an end-to-end NLP pipeline for monitoring civic discourse, detecting hate speech, and classifying narratives from social media platforms including Twitter/X, Facebook, and Google News.
+🔗 **Live Deployment (Streamlit):** [Discourse monitoring  App](https://richy-nlp.streamlit.app/)
 
 ## 📊 Features
 
