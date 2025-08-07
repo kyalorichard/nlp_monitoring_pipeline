@@ -58,8 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contributors
 
 - [Kyalo Richard](https://github.com/kyalorichard) — Lead Developer & Data Scientist
-- [Your Collaborator Name] — NLP Specialist
-- [Another Contributor] — Frontend Dashboard Developer
 
 ---
 
