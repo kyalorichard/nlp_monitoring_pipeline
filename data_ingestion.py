@@ -96,7 +96,7 @@ def scrape_facebook(page="UNDP", max_posts=5):
 def collect_data():
     twitter_data = scrape_twitter()
     news_data = scrape_google_news()
-    youtube_data = scrape_youtube_comments(api_key=os.getenv("YOUTUBE_API_KEY", "AIzaSyDWQ26Oy2eOxmInvCXOS7Mcxqubr3Wxe4E"))
+    youtube_data = scrape_youtube_comments(api_key=os.getenv("YOUTUBE_API_KEY", ""))
     facebook_data = scrape_facebook()
 
     combined = twitter_data + news_data + youtube_data + facebook_data
