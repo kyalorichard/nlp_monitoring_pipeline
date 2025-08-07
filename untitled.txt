@@ -1,0 +1,11 @@
+snscrape
+GoogleNews
+google-api-python-client
+pandas
+plotly
+wordcloud
+matplotlib
+transformers
+weasyprint
+jinja2
+streamlit
